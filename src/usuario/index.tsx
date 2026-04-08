@@ -1,7 +1,7 @@
 function Usuario() {
     return (
         <> 
-            <p>Original</p>
+            <p>Usuario</p>
         </>
     )
 }

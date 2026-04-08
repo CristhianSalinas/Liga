@@ -1,7 +1,7 @@
 function Favoritos() {
     return (
         <> 
-            <p>Original</p>
+            <p>Favoritos</p>
         </>
     )
 }
